@@ -1,0 +1,18 @@
+# Network Intrusion Detection System (NIDS)
+
+## Overview
+This project implements a **Network Intrusion Detection System** using **Suricata** on Ubuntu 24.04.  
+
+It detects suspicious activity, generates alerts, and applies response mechanisms (logging attacker IPs).
+
+## Features
+- Suricata with custom rules
+- Auto-response script to log attacker IPs
+- Continuous monitoring of network traffic
+- (Optional) visualization with EveBox in Docker
+
+## Testing
+1. Run Suricata:
+   ```bash
+   sudo suricata -c /etc/suricata/suricata.yaml -i eth0 -D
+

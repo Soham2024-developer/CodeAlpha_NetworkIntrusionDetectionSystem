@@ -1,4 +1,1 @@
-0000000000000000000000000000000000000000 e4cce9c70e57c7c2a8b5f4daf51ab174efe11026 root <root@DESKTOP-Q45AHSH.localdomain> 1755350632 +0000	commit (initial): Initial commit - NIDS project
-e4cce9c70e57c7c2a8b5f4daf51ab174efe11026 f2646a26fb606d930b2ec9c3838743d96b0ece00 root <root@DESKTOP-Q45AHSH.localdomain> 1755350805 +0000	pull origin main --rebase (finish): refs/heads/main onto 6e232b642812a05d8a2428d36459846f89f40cec
-f2646a26fb606d930b2ec9c3838743d96b0ece00 11c6e36499ed601c97d53ad67dbbc0b972f13fc8 root <root@DESKTOP-Q45AHSH.localdomain> 1755352871 +0000	commit: Initial commit
-11c6e36499ed601c97d53ad67dbbc0b972f13fc8 11c6e36499ed601c97d53ad67dbbc0b972f13fc8 root <root@DESKTOP-Q45AHSH.localdomain> 1755352871 +0000	Branch: renamed refs/heads/main to refs/heads/main
+0000000000000000000000000000000000000000 6e232b642812a05d8a2428d36459846f89f40cec root <root@DESKTOP-Q45AHSH.localdomain> 1755350805 +0000	pull origin main --rebase: storing head
